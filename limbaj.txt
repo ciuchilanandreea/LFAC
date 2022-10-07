@@ -1,0 +1,84 @@
+int ASjdiej;
+int ASjgr:=34,
+ASx,
+ASij:=543,
+ASceva[33321][9080][3493804][3244], ASaltceva[789],
+ASwd;
+float ASjj;
+bool ASjbjd;
+string ASjbd;
+char ASokfe:=`jfiejfASIJjew`;
+defineste ASsa 34;
+defineste ASDdefrunza `dfghjk`;
+
+
+int ASfeok()
+{ int ASff;
+  ploaia(1>2) 
+  ASff:=4567+78;
+};
+
+char ASfuntie(int ASfeiwfj,char ASre)
+{
+    int AScde,ASblabla;
+    AScde:=ASx+ASfeok(ASfunctie(ASblabla));
+};
+
+int ASugug(int ASbbib,char AShihi)
+{
+   int ASbbj;
+   ASbbj:=5678;
+   
+};
+
+int ASugug(char ASbbib, char AShihi)
+{
+   int ASggd;
+   ASggd:=5678;
+};
+
+int ASfun(int ASihdidh,int ASjbed)
+  {
+    int ASjsjs,ASfrhu;
+    ploaia(ASjsjs>ASfrhu) 
+    	ASjsjs:=ASx;
+ };
+
+clasa ASrtye
+{ int AShdd;
+  int ASfunctie(int ASihdidh,int ASjbed)
+  {
+    int ASfghj;
+    ploaia(ASjsjs>ASfrhu) 
+    	ASjsjs:=AShdd;
+ };
+};
+
+ASrtye ASobiect;
+
+functional_tfik()
+{
+	return 60+2*2+ASsa;
+};
+
+char ASuhjhij;
+int ASfeij,ASefe[7384],ASded;
+
+ho ho ho
+
+ASuhuh();
+ploaia(ASjsjs>ASfrhu) 
+    	ASjsjs:=AShdd;
+
+ASfeij:=`ijeiwjeSSWOKDNW`~`oefkeokUHYG894&+-/!?fewf`;
+ASefe[782+ASx]:=ASx;
+ASgcy[34567+34].ASrty:=455+ASgtg.ASyy*34;
+eval(ASokfe+20*9);
+
+ASx:=ASfun(ASx)+567;
+
+ploaia(ASjsjs>ASfrhu) 
+  ASjsjs:=AShdd;
+
+oh oh oh
+
